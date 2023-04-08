@@ -1,0 +1,9 @@
+# [aria2c(1) — aria2 1.36.0 documentation](https://aria2.github.io/manual/en/html/aria2c.html#bittorrent-specific-options)
+# [Aria2 - ArchWiki](https://wiki.archlinux.jp/index.php/Aria2#.E3.82.B5.E3.83.B3.E3.83.97.E3.83.AB_aria2.bittorrent)
+max-overall-download-limit=5M
+bt-seed-unverified=false
+max-overall-upload-limit=30M
+max-upload-limit=2M
+# if seed-ratio or seed-time then end
+seed-ratio=1
+seed-time=222

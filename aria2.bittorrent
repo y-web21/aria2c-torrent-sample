@@ -1,0 +1,7 @@
+# https://aria2.github.io/manual/en/html/aria2c.html
+max-overall-download-limit=3M
+bt-seed-unverified
+max-overall-upload-limit=3M
+max-upload-limit=1M
+seed-ratio=2.5
+seed-time=12
